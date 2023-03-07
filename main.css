@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(71, 69, 69);
+  }
+  
+  .mainBox {
+    height: 150px;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(101, 101, 182);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #number {
+    height: 50px;
+    width: 250px;
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+  }
+  
+  #increment {
+    height: 30px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 225px;
+    margin-right: 100px;
+  }
+  
+  #decrement {
+    height: 30px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 225px;
+  }
